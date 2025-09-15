@@ -18,11 +18,13 @@ Interactive Buttons – Each button links directly to my professional platforms:
 
 Custom Logo – The circular logo represents my art brand Drawin Creation.
 # Why did I build this project?
-This webpage was created to share my work and provide direct access to my different social accounts, where I constantly upload new projects and updates.
+I wanted a dedicated space to showcase my portfolio as a LookDev artist and to make it easy for recruiters, studios, and collaborators to explore my work and connect with me.
 # How to navegate through the web? 
-The home page introduces my profile and portfolio.
-The navigation bar includes a section with information about me and my competencies.
-Links to my demo reel and social media accounts are available for further exploration of my work.
+The navigation bar allows you to move between the Home and About Me sections.
+
+The buttons on the homepage take you directly to my demo reel and professional social accounts.
+
+The logo (Drawin Creation) is featured as part of my artistic identity.
 # Technologies Used
 HTML5 – Structure and content
 
